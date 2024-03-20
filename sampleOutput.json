@@ -1,0 +1,70 @@
+{
+    "status": "ok",
+    "totalResults": 6,
+    "articles": [
+        {
+            "source": {
+                "id": "news-com-au",
+                "name": "News.com.au"
+            },
+            "author": "Andrew McMurtry",
+            "title": "‘Absolute chaos’: Warner truth laid bare",
+            "description": "The wait for the Australian international cricket summer is almost over ahead of Thursday’s first Test against Pakistan, but the entire lead up has been dominated by the feud between David Warner and Mitchell Johnson.",
+            "url": "https://www.news.com.au/sport/cricket/absolute-chaos-david-warner-truth-laid-bare-amid-mitchell-johnson-feud/news-story/09132cddd248a89947eb642e5b40bcc8",
+            "urlToImage": "https://content.api.news/v3/images/bin/0cfdd3720044e84fc1e85b88cfc7d94b",
+            "publishedAt": "2023-12-13T10:07:00Z",
+            "content": "The wait for the Australian international cricket summer is almost over ahead of Thursday’s first Test against Pakistan, but the entire lead up has been dominated by the feud between David Warner and… [+5946 chars]"
+        },
+        {
+            "source": {
+                "id": "news-com-au",
+                "name": "News.com.au"
+            },
+            "author": null,
+            "title": "‘No right’: Khawaja’s shoe statement banned",
+            "description": "Test opener Usman Khawaja has been banned from making a political statement over the war in Gaza on his shoes for the opening clash with Pakistan by Cricket Australia after his plan divided the nation.",
+            "url": "https://www.news.com.au/sport/cricket/a-former-test-allrounder-says-usman-khawaja-should-not-make-political-statements-while-playing-for-australia/news-story/255130ae7ce14d839d3fe4e7dd7454d4",
+            "urlToImage": "https://content.api.news/v3/images/bin/d6149d790943ee281d1aa4b9c6c6ce61",
+            "publishedAt": "2023-12-13T05:58:00Z",
+            "content": "Test opener Usman Khawaja has been banned from making a political statement over the war in Gaza on his shoes for the opening clash with Pakistan by Cricket Australia after his plan divided the natio… [+2746 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Usman Khawaja: Cricket Australia warns batter against making Gaza message",
+            "description": "The Australian batter had planned to wear shoes bearing the words \"all lives are equal\" during a Test.",
+            "url": "http://www.bbc.co.uk/news/world-australia-67700408",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/DE29/production/_132037865_gettyimages-1846372164.jpg",
+            "publishedAt": "2023-12-13T05:37:17.6523635Z",
+            "content": "Australian cricketer Usman Khawaja has been warned against showing an on-field message in support of Palestinians at a Test match against Pakistan.\r\nThe batter had planned to wear shoes bearing the w… [+1424 chars]"
+        },
+        {
+            "source": {
+                "id": "espn-cric-info",
+                "name": "ESPN Cric Info"
+            },
+            "author": null,
+            "title": "PCB hands Umar Akmal three-year ban from all cricket | ESPNcricinfo.com",
+            "description": "Penalty after the batsman pleaded guilty to not reporting corrupt approaches | ESPNcricinfo.com",
+            "url": "http://www.espncricinfo.com/story/_/id/29103103/pcb-hands-umar-akmal-three-year-ban-all-cricket",
+            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1099495_800x450.jpg",
+            "publishedAt": "2020-04-27T11:41:47Z",
+            "content": "Umar Akmal's troubled cricket career has hit its biggest roadblock yet, with the PCB handing him a ban from all representative cricket for three years after he pleaded guilty of failing to report det… [+1506 chars]"
+        },
+        {
+            "source": {
+                "id": "espn-cric-info",
+                "name": "ESPN Cric Info"
+            },
+            "author": null,
+            "title": "What we learned from watching the 1992 World Cup final in full again | ESPNcricinfo.com",
+            "description": "Wides, lbw calls, swing - plenty of things were different in white-ball cricket back then | ESPNcricinfo.com",
+            "url": "http://www.espncricinfo.com/story/_/id/28970907/learned-watching-1992-world-cup-final-full-again",
+            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1219926_1296x729.jpg",
+            "publishedAt": "2020-03-30T15:26:05Z",
+            "content": "Last week, we at ESPNcricinfo did something we have been thinking of doing for eight years now: pretend-live ball-by-ball commentary for a classic cricket match. We knew the result, yes, but we tried… [+6823 chars]"
+        }
+    ]}
